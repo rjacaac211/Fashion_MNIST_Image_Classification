@@ -19,4 +19,4 @@ This project implements image classification on the Fashion MNIST dataset using 
 - This folder contains the trained model/s in this project.
 
 ## Summary
-The primary objective of this project was to develop a model capable of accurately classifyingimages of the Fashion MNIST dataset. The model achieved an impressive classification accuracy of 92% on the Fashion MNIST dataset.
+The primary objective of this project was to develop a model capable of accurately classifying images of the Fashion MNIST dataset. The model achieved a classification accuracy of 92%.
